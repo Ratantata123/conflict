@@ -1,5 +1,4 @@
 line1
 I am Devops engineer
->>>>>>> bug1
 line3
 line4
